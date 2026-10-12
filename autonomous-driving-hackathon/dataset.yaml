@@ -1,0 +1,11 @@
+path: /workspace/yolo_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: red_light
+  1: yellow_light
+  2: green_light
+  3: left_light
